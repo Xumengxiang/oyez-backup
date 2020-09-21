@@ -1,0 +1,10 @@
+{
+  "name": "oyez",
+  "version": "1.0.0",
+  "description": "Command line interface for react application",
+  "bin": {
+    "ytian": "./bin/index.js"
+  },
+  "author": "JieZao",
+  "license": "MIT"
+}

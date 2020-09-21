@@ -8,8 +8,9 @@
     }
   },
   "lint-staged": {
-    "*.js": [
-      "eslint --fix",
+    "packages/**/*.{js,jsx}": [
+      "prettier --write",
+      "eslint",
       "git add"
     ]
   },
@@ -35,6 +36,7 @@
     "eslint-plugin-import": "^2.22.0",
     "husky": "^4.3.0",
     "lerna": "^3.22.1",
-    "lint-staged": "^10.4.0"
+    "lint-staged": "^10.4.0",
+    "prettier": "^2.1.2"
   }
 }
