@@ -1,0 +1,17 @@
+{
+  "name": "@xfe/oyez-utils",
+  "version": "1.0.0",
+  "description": "utils for oyez",
+  "main": "index.js",
+  "author": "JieZao",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "execa": "^4.0.3",
+    "inquirer": "^7.3.3",
+    "internal-ip": "^6.1.0",
+    "opn": "^6.0.0",
+    "react-dev-utils": "^10.2.1",
+    "string.prototype.padstart": "^3.1.0"
+  }
+}
