@@ -6,5 +6,16 @@
     "ytian": "./bin/index.js"
   },
   "author": "JieZao",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.1.0",
+    "fs-extra": "^9.0.1",
+    "inquirer": "^7.3.3",
+    "javascript-stringify": "^2.0.1",
+    "ora": "^5.1.0",
+    "read-pkg": "^5.2.0",
+    "remote-origin-url": "^2.0.0",
+    "write-pkg": "^4.0.0"
+  }
 }

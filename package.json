@@ -8,7 +8,7 @@
     }
   },
   "lint-staged": {
-    "packages/**/*.{js,jsx}": [
+    "packages/**/*.{jsx}": [
       "prettier --write",
       "eslint",
       "git add"
