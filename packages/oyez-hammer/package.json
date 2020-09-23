@@ -1,0 +1,23 @@
+{
+  "name": "@xfe/oyez-hammer",
+  "version": "1.0.0",
+  "description": "service for oyez",
+  "author": "JieZao",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.11.6",
+    "chalk": "^4.1.0",
+    "commander": "^6.1.0",
+    "cross-env": "^7.0.2",
+    "husky": "^4.3.0",
+    "inquirer": "^7.3.3",
+    "lint-staged": "^10.4.0",
+    "merge2": "^1.4.1",
+    "minimist": "^1.2.5",
+    "node-file-tree": "^1.0.3",
+    "read-pkg": "^5.2.0",
+    "rimraf": "^3.0.2",
+    "tapable": "^2.0.0",
+    "webpack-chain": "^6.5.1"
+  }
+}
